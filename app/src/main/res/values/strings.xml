@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Conversor DMO</string>
+    <string name="converted_value">Valor convertido: %s</string>
+</resources>
